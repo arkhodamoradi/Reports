@@ -1,1 +1,1 @@
-document.write("137.110.161.60");document.write("137.110.161.60");
+document.write("137.110.161.60");
